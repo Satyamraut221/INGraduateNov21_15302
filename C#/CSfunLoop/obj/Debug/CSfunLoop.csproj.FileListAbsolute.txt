@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\bin\Debug\CSfunLoop.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\bin\Debug\CSfunLoop.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\bin\Debug\CSfunLoop.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\obj\Debug\CSfunLoop.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\obj\Debug\CSfunLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\obj\Debug\CSfunLoop.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\obj\Debug\CSfunLoop.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunLoop\obj\Debug\CSfunLoop.pdb

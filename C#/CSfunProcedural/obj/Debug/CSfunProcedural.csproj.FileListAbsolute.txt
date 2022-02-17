@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\bin\Debug\CSfunProcedural.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\bin\Debug\CSfunProcedural.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\bin\Debug\CSfunProcedural.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\obj\Debug\CSfunProcedural.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\obj\Debug\CSfunProcedural.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\obj\Debug\CSfunProcedural.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\obj\Debug\CSfunProcedural.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunProcedural\obj\Debug\CSfunProcedural.pdb

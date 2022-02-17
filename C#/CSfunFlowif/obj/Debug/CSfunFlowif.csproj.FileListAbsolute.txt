@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\bin\Debug\CSfunFlowif.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\bin\Debug\CSfunFlowif.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\bin\Debug\CSfunFlowif.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\obj\Debug\CSfunFlowif.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\obj\Debug\CSfunFlowif.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\obj\Debug\CSfunFlowif.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\obj\Debug\CSfunFlowif.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunFlowif\obj\Debug\CSfunFlowif.pdb

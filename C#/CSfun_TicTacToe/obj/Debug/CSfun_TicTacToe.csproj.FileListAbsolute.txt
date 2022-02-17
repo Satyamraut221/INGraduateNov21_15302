@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\bin\Debug\CSfun_TicTacToe.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\bin\Debug\CSfun_TicTacToe.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\bin\Debug\CSfun_TicTacToe.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\obj\Debug\CSfun_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\obj\Debug\CSfun_TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\obj\Debug\CSfun_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\obj\Debug\CSfun_TicTacToe.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfun_TicTacToe\obj\Debug\CSfun_TicTacToe.pdb

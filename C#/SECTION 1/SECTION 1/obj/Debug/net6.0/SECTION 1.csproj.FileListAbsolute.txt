@@ -1,0 +1,15 @@
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\SECTION 1.exe
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\SECTION 1.deps.json
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\SECTION 1.runtimeconfig.json
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\SECTION 1.dll
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\ref\SECTION 1.dll
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\bin\Debug\net6.0\SECTION 1.pdb
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.AssemblyInfoInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.AssemblyInfo.cs
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.dll
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\ref\SECTION 1.dll
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.pdb
+C:\Users\satya\Downloads\mastek html\.NET\SECTION 1\SECTION 1\obj\Debug\net6.0\SECTION 1.genruntimeconfig.cache

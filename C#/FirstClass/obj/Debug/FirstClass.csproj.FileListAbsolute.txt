@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\bin\Debug\FirstClass.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\bin\Debug\FirstClass.exe
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\bin\Debug\FirstClass.pdb
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\obj\Debug\FirstClass.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\obj\Debug\FirstClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\obj\Debug\FirstClass.exe
+C:\Users\satya\Downloads\mastek html\.NET\FirstClass\obj\Debug\FirstClass.pdb

@@ -1,0 +1,14 @@
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ArrayUsingParameters.exe
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ArrayUsingParameters.deps.json
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ArrayUsingParameters.runtimeconfig.json
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ArrayUsingParameters.dll
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ref\ArrayUsingParameters.dll
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\bin\Debug\net6.0\ArrayUsingParameters.pdb
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.AssemblyInfoInputs.cache
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.AssemblyInfo.cs
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.dll
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ref\ArrayUsingParameters.dll
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.pdb
+C:\Users\satya\source\repos\ArrayUsingParameters\ArrayUsingParameters\obj\Debug\net6.0\ArrayUsingParameters.genruntimeconfig.cache

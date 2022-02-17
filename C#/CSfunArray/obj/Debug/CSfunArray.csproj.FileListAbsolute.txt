@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\bin\Debug\CSfunArray.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\bin\Debug\CSfunArray.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\bin\Debug\CSfunArray.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\obj\Debug\CSfunArray.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\obj\Debug\CSfunArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\obj\Debug\CSfunArray.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\obj\Debug\CSfunArray.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunArray\obj\Debug\CSfunArray.pdb

@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\bin\Debug\CSfunForeachChall.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\bin\Debug\CSfunForeachChall.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\bin\Debug\CSfunForeachChall.pdb
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\obj\Debug\CSfunForeachChall.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\obj\Debug\CSfunForeachChall.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\obj\Debug\CSfunForeachChall.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\obj\Debug\CSfunForeachChall.exe
+C:\Users\satya\Downloads\mastek html\.NET\CSfunForeachChall\obj\Debug\CSfunForeachChall.pdb

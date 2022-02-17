@@ -1,0 +1,15 @@
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.exe
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.deps.json
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.runtimeconfig.json
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.dll
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\ref\JaggedArray.dll
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\bin\Debug\net6.0\JaggedArray.pdb
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.AssemblyReference.cache
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfoInputs.cache
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.AssemblyInfo.cs
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.dll
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\ref\JaggedArray.dll
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.pdb
+C:\Users\satya\source\repos\JaggedArray\JaggedArray\obj\Debug\net6.0\JaggedArray.genruntimeconfig.cache

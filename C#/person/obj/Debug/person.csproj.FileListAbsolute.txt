@@ -1,0 +1,8 @@
+C:\Users\satya\Downloads\mastek html\.NET\person\bin\Debug\person.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\person\bin\Debug\person.exe
+C:\Users\satya\Downloads\mastek html\.NET\person\bin\Debug\person.pdb
+C:\Users\satya\Downloads\mastek html\.NET\person\obj\Debug\person.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\mastek html\.NET\person\obj\Debug\person.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\person\obj\Debug\person.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\person\obj\Debug\person.exe
+C:\Users\satya\Downloads\mastek html\.NET\person\obj\Debug\person.pdb

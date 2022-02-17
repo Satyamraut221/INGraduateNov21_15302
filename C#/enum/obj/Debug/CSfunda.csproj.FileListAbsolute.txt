@@ -1,0 +1,7 @@
+C:\Users\satya\Downloads\mastek html\.NET\enum\bin\Debug\@enum.exe.config
+C:\Users\satya\Downloads\mastek html\.NET\enum\bin\Debug\@enum.exe
+C:\Users\satya\Downloads\mastek html\.NET\enum\bin\Debug\@enum.pdb
+C:\Users\satya\Downloads\mastek html\.NET\enum\obj\Debug\CSfunda.csproj.SuggestedBindingRedirects.cache
+C:\Users\satya\Downloads\mastek html\.NET\enum\obj\Debug\CSfunda.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\mastek html\.NET\enum\obj\Debug\@enum.exe
+C:\Users\satya\Downloads\mastek html\.NET\enum\obj\Debug\@enum.pdb
